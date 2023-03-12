@@ -11,7 +11,7 @@ la climatización o el sistema HVAC de un edificio comercial.
 ## DataSheet
 ![images](https://uelectronics.com/wp-content/uploads/2018/02/AR0333-Sensor-de-temperatura-Digital-DS18B20-V1.jpg)
 ## Circuito
-![images](https://imgur.com/Eyj5fO8.jpg)
+![images](https://imgur.com/rHJZG0A.jpg)
 ## Simulacion
 
 ## ¿Que Hace? 
