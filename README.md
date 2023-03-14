@@ -30,7 +30,7 @@ while True:
     print(ds_sensor.read_temp(rom))
   time.sleep(2)
 
-[github](https://wokwi.com/projects/359121756182239233)
+[SIMULACION](https://wokwi.com/projects/359121756182239233)
 ## ¿Que Hace? 
 
 Debe ejecutar la función convert_temp() para iniciar una lectura de temperatura, luego esperar al menos 750 ms antes de leer el valor.
