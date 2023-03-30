@@ -32,8 +32,6 @@ while True:
 
 [SIMULACION](https://wokwi.com/projects/359121756182239233)
 ## ¿Que Hace? 
-prueba
-
 
 Debe ejecutar la función convert_temp() para iniciar una lectura de temperatura, luego esperar al menos 750 ms antes de leer el valor.
 Utiliza la función read_temp para devolver un valor y luego hacemos una pausa de 2 segundos y lo ejecutamos de nuevo
